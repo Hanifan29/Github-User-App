@@ -3,7 +3,6 @@ package com.abduhanifan.dicoding.githubuserapp
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.recyclerview.widget.RecyclerView
-import com.abduhanifan.dicoding.githubuserapp.model.User
 
 class MainActivity : AppCompatActivity() {
     private lateinit var rvUser: RecyclerView
