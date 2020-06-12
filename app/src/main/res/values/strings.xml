@@ -1,8 +1,13 @@
 <resources>
     <!-- Other string resources-->
 
-    <string name="user_name">Nama User</string>
-    <string name="detail">Detail</string>
+    <string name="username">Nama User</string>
+    <string name="name">Nama Lengkap</string>
+    <string name="company">Perusahaan</string>
+    <string name="location">Lokasi</string>
+    <string name="repository">Repositori</string>
+    <string name="follower">Pengikut</string>
+    <string name="following">Mengikuti</string>
 
     <string-array name="username">
         <item>JakeWharton</item>
